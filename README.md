@@ -6,13 +6,9 @@ I’m **Nick Iliakis** ([@nickiliak](https://github.com/nickiliak)), a Human-Cen
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nickiliak&show_icons=true&theme=dark&count_private=true" alt="Nick’s GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nickiliak&layout=compact&theme=dark&langs_count=6" alt="Most Used Languages" />
-</p>
+| **My GitHub Stats** | **Top Languages** |
+|:-------------------:|:-----------------:|
+|<img src="https://github-readme-stats.vercel.app/api?username=nickiliak&show_icons=true&theme=dark&count_private=true" alt="Nick’s GitHub Stats" />|<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nickiliak&layout=compact&theme=dark&langs_count=6" alt="Most Used Languages" />|
 
 ---
 
