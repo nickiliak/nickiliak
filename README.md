@@ -22,4 +22,4 @@ I’m **Nick Iliakis** ([@nickiliak](https://github.com/nickiliak)), a Human-Cen
 ## 📫 Contact
 
 - **Email:** [nickiliak847@gmail.com](mailto:nickiliak847@gmail.com)  
-- **LinkedIn:** *(coming soon)*  
+- **LinkedIn:** [nickiliak](https://www.linkedin.com/in/nikolaosiliakis/) 
