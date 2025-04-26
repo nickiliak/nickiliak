@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I’m **Nick Iliakis** ([@nickiliak](https://github.com/nickiliak)), a Human-Centered AI Master’s student passionate about simulation, compilers, and game‐engine development.  
+I’m **Nick Iliakis** ([@nickiliak](https://github.com/nickiliak)), currently doing my masters in artificial intelligence at DTU passionate about simulation, machine learning and experience in game engines and VR development.
 
 ---
 
