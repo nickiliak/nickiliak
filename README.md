@@ -14,8 +14,8 @@ I’m **Nick Iliakis** ([@nickiliak](https://github.com/nickiliak)), currently d
 
 ## 🛠️ Skills & Technologies
 
-- **Languages:** C, C++, C#, HTML, Python (Jupyter Notebook)  
-- **Tools & Platforms:** AWS, Git, GitHub  
+- **Languages:** Python, SQL, Postgresql, C, C++, C#, HTML, CSS, 
+- **Tools & Platforms:** AWS, GitHub, Git, Linux, Make
 
 ---
 
