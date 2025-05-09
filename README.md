@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I’m **Nick Iliakis** ([@nickiliak](https://github.com/nickiliak)), currently doing my masters in AI at DTU. \
+I’m **Nick Iliakis** ([@nickiliak](https://github.com/nickiliak)), currently doing my masters in AI at DTU.
 
 Passionate about Machine learning and Deep neural networks with experience in game engines and VR game development.
 
