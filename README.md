@@ -8,10 +8,7 @@ Passionate about Machine learning and Deep neural networks with experience in ga
 
 ## 📊 GitHub Stats
 
-| **My GitHub Stats** | **Top Languages** |
-|:-------------------:|:-----------------:|
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nickiliak&layout=compact&theme=dark&langs_count=2&hide=javascript,html,css,c#,makefile,cmake" alt="Top Languages" />
-
+| **My GitHub Stats** | **Top Languages** | |:-------------------:|:-----------------:| |<img src="https://github-readme-stats.vercel.app/api?username=nickiliak&show_icons=true&theme=dark&count_private=true" alt="Nick’s GitHub Stats" />|<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nickiliak&layout=compact&theme=dark&langs_count=6" alt="Most Used Languages" />|
 
 ---
 
