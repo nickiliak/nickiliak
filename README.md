@@ -8,7 +8,6 @@ Passionate about Machine learning and Deep neural networks with experience in ga
 
 ## 📊 GitHub Stats
 
-| **My GitHub Stats** |
 |<img src="https://github-readme-stats.vercel.app/api?username=nickiliak&show_icons=true&theme=dark&count_private=true" alt="Nick’s GitHub Stats" />
 
 ---
