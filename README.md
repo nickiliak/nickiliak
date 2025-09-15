@@ -9,7 +9,6 @@ Passionate about Machine learning and Deep neural networks with experience in ga
 ## 📊 GitHub Stats
 
 |<img src="https://github-readme-stats.vercel.app/api?username=nickiliak&show_icons=true&theme=dark&count_private=true" alt="Nick’s GitHub Stats" />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nickiliak&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 ---
 
 ## 🛠️ Skills & Technologies
